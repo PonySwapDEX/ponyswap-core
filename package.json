@@ -1,11 +1,11 @@
 {
-  "name": "@pantherswap-libs/pony-swap-core",
+  "name": "@ponyswapdex/pony-swap-core",
   "description": "Core contracts for the pony protocol",
   "version": "0.1.0",
-  "homepage": "https://ponyswap.com",
+  "homepage": "https://ponyswap.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ponyswap/pony-swap-core.git"
+    "url": "git+https://github.com/ponyswapdex/ponyswap-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
@@ -43,8 +43,17 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "truffle-hdwallet-provider": "^1.0.17",
+    "np": "^7.6.0",
     "truffle": "^5.1.41",
-    "truffle-flattener": "^1.4.4"
-  }
+    "truffle-flattener": "^1.4.4",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "bugs": {
+    "url": "https://github.com/ponyswapdex/ponyswap-core/issues"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": ""
 }
