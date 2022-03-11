@@ -1,6 +1,6 @@
 # PonySwap Factory
 
-In-depth documentation on PancakeSwap is available at [docs.ponyswap.com](https://docs.ponyswap.com/).
+In-depth documentation on PancakeSwap is available at [docs.ponyswap.org](https://docs.ponyswap.org/).
 
 # Local Development
 
