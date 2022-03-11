@@ -1,7 +1,7 @@
 {
   "name": "@ponyswapdex/pony-swap-core",
   "description": "Core contracts for the pony protocol",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://ponyswap.org",
   "repository": {
     "type": "git",
